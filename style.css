@@ -24,7 +24,7 @@ body {
 .logo {
   font-size: 24px;
   font-weight: bold;
-  color: #ff2600;
+  color:#17aac4 ;
 }
 .nav-links {
   list-style: none;
@@ -33,7 +33,7 @@ body {
 }
 .nav-links a {
   text-decoration: none;
-  color: #ff0000;
+  color: #17aac4;
   font-size: 16px;
 }
 .hab-container {
@@ -50,7 +50,7 @@ body {
 }
 .subtitle {
   font-size: 20px;
-  color: #ff0000;
+  color:#17aac4 ;
   margin-bottom: 10px;
 }
 .text-content h1 {
@@ -90,12 +90,12 @@ body {
   margin-top: 20px;
 }
 .social-icons a {
-  color: hsl(2, 64%, 48%);
+  color:#17aac4 ;
   font-size: 24px;
   margin-right: 15px;
 }
 .social-icons a:hover {
-  color: #97230e;
+  color:#17aac4 ;
 }
 .contact-form {
   background-color: #222;
@@ -120,7 +120,7 @@ body {
 
 .submit-btn {
   background-color: #00ffff;
-  color: rgb(230, 10, 10);
+  color: #17aac4;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
